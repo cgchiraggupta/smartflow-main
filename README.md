@@ -78,4 +78,4 @@ cd SMARTFLOW && pip install -r requirements.txt
 - 📊 **Historical Data Insights** to improve urban traffic planning.
 
 ## 📧 Contact
-For inquiries, reach out to **your-email@example.com** or visit our [GitHub](https://github.com/Karush2807/SMARTFLOW).
+For inquiries, reach out to **cg077593@gmail.com** or visit our [GitHub](https://github.com/cgchiraggupta/smartflow-main).
